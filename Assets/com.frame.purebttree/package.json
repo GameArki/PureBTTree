@@ -1,0 +1,24 @@
+{
+  "name": "com.frame.purebttree",
+  "version": "0.1.0",
+  "description": "行为树",
+  "displayName": "JackFrame.BTTree",
+  "unity": "2019.4",
+  "author": {
+    "name": "杰克有茶",
+    "email": "chenwansal1@163.com",
+    "url": "http://www.utea.fun"
+  },
+  "changelogUrl": "",
+  "dependencies": {
+  },
+  "documentationUrl": "",
+  "hideInEditor": false,
+  "keywords": [
+    "jackframe"
+  ],
+  "license": "",
+  "licensesUrl": "",
+  "samples": [],
+  "unityRelease": "16f1"
+}
