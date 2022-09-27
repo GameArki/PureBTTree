@@ -140,6 +140,7 @@ namespace JackFrame.BTTreeNS {
             sequenceComponent?.Reset();
             parallelComponent?.Reset();
             actionComponent?.Reset();
+            nodeStatus = BTTreeNodeStatus.Idle;
         }
 
         public string GetString() {

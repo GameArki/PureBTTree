@@ -48,7 +48,7 @@ namespace JackFrame.BTTreeNS {
         }
 
         internal void Reset() {
-            node.Children.ForEach(value => value.SetNodeStatus(BTTreeNodeStatus.Idle));
+            node.Children.ForEach(value => value.Reset());
             activedChild = null;
         }
 
