@@ -114,7 +114,7 @@ namespace JackFrame.BTTreeNS {
             for (int i = 0; i < resList.Count; i += 1) {
                 resList[i] = BTTreeNodeResult.NodeReady;
             }
-            node.Children.ForEach(value => value.SetNodeStatus(BTTreeNodeStatus.Idle));
+            node.Children.ForEach(value => value.Reset());
         }
 
     }
