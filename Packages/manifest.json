@@ -40,7 +40,6 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0",
-		"com.frame.upmaster":"ssh://git@github.com/chenwansal/UPMaster.git?path=/Assets/com.frame.upmaster#main"
+    "com.unity.modules.xr": "1.0.0"
   }
 }
